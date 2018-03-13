@@ -22,7 +22,7 @@ apis:
   tags: Purchases
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/purchases/master/_listings/capital-one-devexchange/purchases-id-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/purchases/master/_listings/capital-one-devexchange/merchants-id-purchases-get.md
 x-common:
 - type: x-authentication
   url: https://developer.capitalone.com/platform-documentation/authorization-with-oauth-20/
