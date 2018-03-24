@@ -18,8 +18,8 @@ tags:
 - Photo
 - Images
 - Getting Started
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-23"
+modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/getty-images/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -31,7 +31,7 @@ apis:
   tags: Purchases
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/getty-images/v3-purchased-images-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/getty-images/v3-purchased-assets-get.md
 x-common:
 - type: x-authentication
   url: https://github.com/gettyimages/connect#authentication
