@@ -23,17 +23,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/merchants-id-accounts-accountid-purchases-get.md
-- name: Capital One DevExchange Get purchase by id
-  description: Returns the purchase with the specific id
+- name: Capital One DevExchange Delete a specific existing purchase
+  description: Deletes the specific purchase
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
   baseURL: https://api.reimaginebanking.com//
   tags: Purchases
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchases-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchases-id-delete.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchases-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchases-id-delete-postman.md
 x-common:
 - type: x-authentication
   url: https://developer.capitalone.com/platform-documentation/authorization-with-oauth-20/
