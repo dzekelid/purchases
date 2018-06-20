@@ -7,10 +7,10 @@ description: What unites us all is a desire to create better end customer experi
   Now is the time to join our beta program, and help us shape the future.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Purchases
-created: "2018-05-20"
-modified: "2018-05-20"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/apis.md
 specificationVersion: "0.14"
 apis:

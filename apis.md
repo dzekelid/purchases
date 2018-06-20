@@ -4,7 +4,7 @@ description: This is a repository of purchases APIs, self-contained as a Github 
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/purchases.png
 created: "2018-02-24"
-modified: "2018-05-20"
+modified: "2018-06-20"
 url: http://purchases.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
