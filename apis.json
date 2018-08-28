@@ -1,0 +1,394 @@
+{
+	"name": "Streadata.io API Gallery - Purchases",
+	"description": "This is a repository of purchases APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/purchases.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://purchases.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Urban Airship",
+			"x-api-slug": "urban-airship",
+			"description": "A market-leading mobile app engagement, mobile analytics, mobile data integration and mobile wallet marketing solution.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/75-urban-airship.jpg",
+			"humanURL": "http://urbanairship.com/",
+			"baseURL": "https://go.urbanairship.com//api/",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/urban-airship/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xero",
+			"x-api-slug": "xero",
+			"description": "Xero is the QuickBooks alternative. Use Xero accounting software to manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg",
+			"humanURL": "http://www.xero.com/",
+			"baseURL": "https://api.xero.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/xero/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "7digital",
+			"x-api-slug": "7digital",
+			"description": "Welcome to 7digital!    Choose from over 30 million high quality tracks in our store; download, sync and play your music on the go.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/294-7digital.jpg",
+			"humanURL": "http://7digital.com",
+			"baseURL": "https://api.7digital.com/1.2/",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/7digital/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "UK National Archives",
+			"x-api-slug": "uk-national-archives",
+			"description": "The National Archives (TNA) is a non-ministerial government department. Its parent department is the Department for Culture, Media and Sport of the United Kingdom of Great Britain and Northern Ireland. It is the official archive of the UK government and for England and Wales; and guardian of some of the nations most iconic documents, dating back more than 1,000 years. There are separate national archives for Scotland (the National Records of Scotland) and Northern Ireland (the Public Record Office of Northern Ireland).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uk-national-archives.jpeg",
+			"humanURL": "http://discovery.nationalarchives.gov.uk/SearchUI/api.htm",
+			"baseURL": "https://api.gettyimages.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/uk-national-archives/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Getty Images",
+			"x-api-slug": "getty-images",
+			"description": "Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1013-getty-images.jpg",
+			"humanURL": "http://www.gettyimages.com/",
+			"baseURL": "https://api.gettyimages.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/getty-images/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Celery",
+			"x-api-slug": "celery",
+			"description": "Celery is a pre-order platform that brings your products to life. Use Celery for your pre-order, custom crowdfunding, and e-commerce needs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1758-celery.jpg",
+			"humanURL": "https://www.trycelery.com",
+			"baseURL": "https:///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/celery/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intuit",
+			"x-api-slug": "intuit",
+			"description": "See how the power of Intuit Giants can work for you by joining the over 46 million people already using TurboTax, QuickBooks and Mint to power their financial prosperity.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9544-intuit.jpg",
+			"humanURL": "https://intuit.com",
+			"baseURL": "https://DefaultParameterValue//v3/company/DefaultParameterValue",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/intuit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Digital River",
+			"x-api-slug": "digital-river",
+			"description": "Digital Riveris a public company that provides global ecommerce, payments and marketing services. In 2013, Digital River processed more than $30 billion in online transactions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DigitalRiver_corp_logo_4c2.png",
+			"humanURL": "https://digitalriver.com",
+			"baseURL": "https://store.digitalriver.com//store/{mysite}",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/digital-river/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Capital One DevExchange",
+			"x-api-slug": "capital-one-devexchange",
+			"description": "What unites us all is a desire to create better end customer experiences. Were building a full suite of tools and technology that make essential things in peoples everyday life &ndash; money, finances, identity &ndash; simpler for you. Now is the time to join our beta program, and help us shape the future.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png",
+			"humanURL": "http://capitalone.com",
+			"baseURL": "https://api.reimaginebanking.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Glacier",
+			"x-api-slug": "aws-glacier",
+			"description": "Amazon Glacier is a secure, durable, and extremely low-cost cloud storage service for data archiving and long-term backup. Customers can reliably store large or small amounts of data for as little as $0.004 per gigabyte per month, a significant savings compared to on-premises solutions. To keep costs low yet suitable for varying retrieval needs, Amazon Glacier provides three options for access to archives, from a few minutes to several hours.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonGlacier.png",
+			"humanURL": "https://aws.amazon.com/glacier/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-glacier/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS RDS",
+			"x-api-slug": "aws-rds",
+			"description": "Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale arelational databasein the cloud. It provides cost-efficient and resizable capacity while managing time-consuming database administration tasks, freeing you up to focus on your applications and business. Amazon RDS provides you six familiar database engines to choose from, includingAmazon Aurora,PostgreSQL,MySQL,MariaDB,Oracle, andMicrosoft SQL Server.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRDS.png",
+			"humanURL": "https://aws.amazon.com/rds/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-rds/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS ElastiCache",
+			"x-api-slug": "aws-elasticache",
+			"description": "Amazon ElastiCache is a web service that makes it easy to deploy, operate, and scale an in-memory data store or cache in the cloud. The service improves the performance of web applications by allowing you to retrieve information from fast, managed, in-memory data stores, instead of relying entirely on slower disk-based databases. Amazon ElastiCache automatically detects and replaces failed nodes, reducing the overhead associated with self-managed infrastructures and provides a resilient system that mitigates the risk of overloaded databases, which slow website and application load times. Through integration with Amazon CloudWatch, Amazon ElastiCache provides enhanced visibility into key performance metrics associated with your Redis or Memcached nodes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonElasticCache.png",
+			"humanURL": "https://aws.amazon.com/elasticache/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-elasticache/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Redshift",
+			"x-api-slug": "aws-redshift",
+			"description": "Amazon Redshift is a fast, fully managed, petabyte-scaledata warehousethat makes it simple and cost-effective to analyze all your data using your existing business intelligence tools. Start small for $0.25 per hour with no commitments and scale to petabytes for $1,000 per terabyte per year, less than a tenth the cost of traditional solutions. Customers typically see 3x compression, reducing their costs to $333 per uncompressed terabyte per year.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonRedshift.png",
+			"humanURL": "https://aws.amazon.com/redshift/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-redshift/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Device Farm",
+			"x-api-slug": "aws-device-farm",
+			"description": "AWS Device Farm is an app testing service that lets you test and interact with your Android, iOS, and web apps on many devices at once, or reproduce issues on a device in real time. View video, screenshots, logs, and performance data to pinpoint and fix issues before shipping your app.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AWSDeviceFarm.png",
+			"humanURL": "https://aws.amazon.com/device-farm/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-device-farm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flowroute",
+			"x-api-slug": "flowroute",
+			"description": "Flowroute is the leading provider of cloud-based communications and is based in Seattle, Washington.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28795-developer-flowroute-com.jpg",
+			"humanURL": "http://developer.flowroute.com",
+			"baseURL": "https:////",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/flowroute/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Purchases",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Purchases",
+	"include": [
+		{
+			"name": "Urban Airship",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/urban-airship/apis.yaml"
+		},
+		{
+			"name": "Xero",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/xero/apis.yaml"
+		},
+		{
+			"name": "7digital",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/7digital/apis.yaml"
+		},
+		{
+			"name": "UK National Archives",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/uk-national-archives/apis.yaml"
+		},
+		{
+			"name": "Getty Images",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/getty-images/apis.yaml"
+		},
+		{
+			"name": "Celery",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/celery/apis.yaml"
+		},
+		{
+			"name": "Intuit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/intuit/apis.yaml"
+		},
+		{
+			"name": "Digital River",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/digital-river/apis.yaml"
+		},
+		{
+			"name": "Capital One DevExchange",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/apis.yaml"
+		},
+		{
+			"name": "AWS Glacier",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-glacier/apis.yaml"
+		},
+		{
+			"name": "AWS RDS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-rds/apis.yaml"
+		},
+		{
+			"name": "AWS ElastiCache",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-elasticache/apis.yaml"
+		},
+		{
+			"name": "AWS Redshift",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-redshift/apis.yaml"
+		},
+		{
+			"name": "AWS Device Farm",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-device-farm/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Flowroute",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/flowroute/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

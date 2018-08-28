@@ -9,105 +9,96 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Purchases
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Capital One DevExchange Get all purchases
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get all purchases
+  x-api-slug: accountsidpurchases-get
   description: Returns the purchases that you are involved in.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////accounts/{id}/purchases
-  tags: Banks,Accounts, , Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/accountsidpurchases-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/accountsidpurchases-get-openapi.md
-- name: Capital One DevExchange Create a purchase
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Create a purchase
+  x-api-slug: accountsidpurchases-post
   description: Creates a purchase where the account with the ID specified is the payer.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////accounts/{id}/purchases
-  tags: Banks,Accounts, , Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/accountsidpurchases-post-openapi.md
-- name: Capital One DevExchange Get purchase by id
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get purchase by id
+  x-api-slug: purchasesid-get
   description: Returns the purchase with the specific id
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////purchases/{id}
-  tags: Banks,Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchasesid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchasesid-get-openapi.md
-- name: Capital One DevExchange Delete a specific existing purchase
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Delete a specific existing purchase
+  x-api-slug: purchasesid-delete
   description: Deletes the specific purchase
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////purchases/{id}
-  tags: Banks,Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchasesid-delete-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchasesid-delete-openapi.md
-- name: Capital One DevExchange Update a specific existing purchase
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Update a specific existing purchase
+  x-api-slug: purchasesid-put
   description: Updates the specific purchase
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////purchases/{id}
-  tags: Banks,Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/purchasesid-put-openapi.md
-- name: Capital One DevExchange Get all purchases by merchant
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get all purchases by merchant
+  x-api-slug: merchantsidpurchases-get
   description: Returns the purchases that a merchant is involved in.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////merchants/{id}/purchases
-  tags: Banks,Merchants, , Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/merchantsidpurchases-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/merchantsidpurchases-get-openapi.md
-- name: Capital One DevExchange Get all purchases by account and merchant
-  x-api-slug: capital-one-devexchange
+- name: Capital One DevExchange - Get all purchases by account and merchant
+  x-api-slug: merchantsidaccountsaccountidpurchases-get
   description: Returns the purchases that a merchant is involved in.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
   humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com////merchants/{id}/accounts/{accountId}/purchases
-  tags: Banks,Merchants, , Accounts, Account, Purchases
+  baseURL: https://api.reimaginebanking.com//
+  tags: US Bank, API Provider, Profiles, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/merchantsidaccountsaccountidpurchases-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/merchantsidaccountsaccountidpurchases-get-openapi.md
-- name: Capital One DevExchange
-  x-api-slug: capital-one-devexchange
-  description: What unites us all is a desire to create better end customer experiences.
-    Were building a full suite of tools and technology that make essential things
-    in peoples everyday life &ndash; money, finances, identity &ndash; simpler for
-    you. Now is the time to join our beta program, and help us shape the future.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png
-  humanURL: http://capitalone.com
-  baseURL: https://api.reimaginebanking.com//
-  tags: Purchases
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/purchases/master/_listings/capital-one-devexchange/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://callfire.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://capital.one.devexchange.stack.network
 - type: x-authentication
   url: https://developer.capitalone.com/platform-documentation/authorization-with-oauth-20/
 - type: x-blog

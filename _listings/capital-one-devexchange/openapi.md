@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Capital One DevExchange
 x-complete: 1
@@ -148,4 +147,3 @@ paths:
       - Accounts
       - Account
       - Purchases
----
